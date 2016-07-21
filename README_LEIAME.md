@@ -1,9 +1,9 @@
 # R4Kernels
 I'm sharing here, kernels for R4 than not found anymore because, broked links or discontinued links.
-From Brazil, XStationBR.
+from Brazil, XStationBR.
 -----------------------------------------------------------------------------------------------
-Eu estou compartilhando aqui, kernels para R4 que estão mais disponíveis porque, os links estão quebrados ou os links foram descontinuados.
-Do Brasil, XStationBR.
+Eu estou compartilhando aqui, kernels para R4 que não estão mais disponíveis porque, os links estão quebrados ou os links foram descontinuados.
+do Brasil, XStationBR.
 -----------------------------------------------------------------------------------------------
 Kernel to use with
 ACEKARD 2i
